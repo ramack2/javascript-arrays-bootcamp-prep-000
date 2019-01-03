@@ -9,7 +9,7 @@ function removeElementFromBeginningOfArray(array) {
   //removes first element from the array, should not mutate original
 }
 
-function destructivelyRemoveElementFromBeginningOfArray(array) {
+function destructivelyRemoveElementFromBeginningOfArray(array, element) {
   array.shift();
 }
 
