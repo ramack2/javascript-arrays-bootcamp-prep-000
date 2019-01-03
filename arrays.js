@@ -9,12 +9,13 @@ function removeElementFromBeginningOfArray(array) {
   //removes first element from the array, should not mutate original
 }
 
-function destructivelyRemoveElementFromBeginningOfArray(array, element) {
+function destructivelyRemoveElementFromBeginningOfArray(array) {
   array.shift();
 }
 
 function addElementToBeginningOfArray(array, element) { 
-  array = [element, ...array];
+  var newArray = [element, ...array];
+  return newArray;
 }
 
 function removeElementFromEndOfArray(array) {
