@@ -18,6 +18,8 @@ function addElementToBeginningOfArray(array, element) {
   return newArray;
 }
 
+function destructivelyAddElementToBeginningOfArray
+
 function removeElementFromEndOfArray(array) {
   return array.slice(0, array.length - 1);
 }
