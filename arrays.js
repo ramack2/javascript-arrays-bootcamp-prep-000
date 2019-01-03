@@ -19,6 +19,7 @@ function addElementToEndOfArray {
 function destructivelyAddElementToEndOfArray {
   
 }
+
 //define a function called accessElementInArray. The function shold accept an array and an index and return the element at that index.
 
 //removeElementFromEndOfArray
