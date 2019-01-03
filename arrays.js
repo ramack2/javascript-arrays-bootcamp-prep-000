@@ -18,6 +18,11 @@ function addElementToBeginningOfArray(array, element) {
   return newArray;
 }
 
+function addElementToEndOfArray(array, element) {
+  var newArray = [array, ...element];
+  return newArray;
+}
+
 function removeElementFromEndOfArray(array) {
   return array.slice(0, array.length - 1);
 }
