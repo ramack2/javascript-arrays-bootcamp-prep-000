@@ -2,3 +2,4 @@
 
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
+//define two functions: addElementToBeginningOfArray, destructivelyAddElementToBegininningOfArray
