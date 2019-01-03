@@ -3,9 +3,22 @@
 var chocolateBars = ["snickers", "hundred grand", "kitkat", "skittles"];
 
 //define two functions: addElementToBeginningOfArray, destructivelyAddElementToBegininningOfArray
+function addElementToBeginningOfArray {
+  
+}
+
+function destructivelyAddElementToBeginningOfArray {
+  
+}
 
 //define two functions: addElementToEndOfArray, destructivelyAddElementToEndOfArray
+function addElementToEndOfArray {
+  
+}
 
+function destructivelyAddElementToEndOfArray {
+  
+}
 //define a function called accessElementInArray. The function shold accept an array and an index and return the element at that index.
 
 //removeElementFromEndOfArray
